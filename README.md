@@ -1,1 +1,2 @@
 MACHINE LEARNING AND DEEP LEARNING SNIPPETS
+used for AvianWeatherNet project
